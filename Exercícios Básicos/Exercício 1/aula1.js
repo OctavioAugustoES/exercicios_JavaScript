@@ -13,3 +13,10 @@ anoNascimento = anoNascimento - 1 ;
 console.log(`${nome} ${sobrenome} tem ${idade} anos, pesa ${peso} Kg`);
 console.log(`Seu índice de massa corporal é: ${indiceMassaCorporal}`);
 console.log(`Seu ano de nascimento é: ${anoNascimento}`);
+
+
+/*
+
+Exercício com variáveis e template Strings
+
+*/
