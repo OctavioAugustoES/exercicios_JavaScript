@@ -2,4 +2,8 @@
 
 - <h2>Exercícios básicos</h2>
 
+- <h2>Exercícios intermediários</h2>
+
+- <h2>Exercícios avançados</h2>
+
 
